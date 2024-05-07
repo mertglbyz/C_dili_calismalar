@@ -6,7 +6,7 @@ main() {
     int j,k;
 	for(k=1;k<20;k++)
 	{
-		printf("zaim yarrami ye\n",k);
+		printf("selam izmir\n",k);
 	}
 	return 0;
 }
